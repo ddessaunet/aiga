@@ -50,7 +50,9 @@ public class Ganancia implements CalculateGenomeScore {
 			ganancia += individuo.getOrganismo()[0] * GANANCIA_PROD_1; // organismo[0] = cantidad de unidades PROD 1
 			ganancia += individuo.getOrganismo()[1] * GANANCIA_PROD_2; // organismo[1] = cantidad de unidades PROD 2
 			ganancia += individuo.getOrganismo()[2] * GANANCIA_PROD_3; // organismo[2] = cantidad de unidades PROD 3			
-		}
+		} else {
+            return 0;
+        }
 		
 //		if ((individuo.getOrganismo()[3] <= HORAS_DISPONIBLES) && (individuo.getOrganismo()[4] <= MATERIA_PRIMA_DISPONIBLE)){
 //			ganancia += individuo.getOrganismo()[0] * GANANCIA_PROD_1; // organismo[0] = cantidad de unidades PROD 1
@@ -58,7 +60,7 @@ public class Ganancia implements CalculateGenomeScore {
 //			ganancia += individuo.getOrganismo()[2] * GANANCIA_PROD_3; // organismo[2] = cantidad de unidades PROD 3
 //		}
 		
-		// Devuelvo la ganancia correspondiente de fabricación de todos los productos o 0 si no se cumplieron las restricciones
+		// Devuelvo la ganancia correspondiente de fabricaciï¿½n de todos los productos o 0 si no se cumplieron las restricciones
 		return ganancia;
 	}
 	

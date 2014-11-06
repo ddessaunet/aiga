@@ -12,25 +12,22 @@ import org.encog.ml.genetic.genome.Chromosome;
  * A genome is the basic blueprint for creating an organism in Encog.
  */
 public class Genoma extends BasicGenome {
-	private static final long serialVersionUID = 8314312930709127450L;
 
-	private static int CANTIDAD_DE_GENES = 3;
-	
 	private Chromosome cromosoma;
 	
 	public Genoma(final GeneticAlgorithm algoritmo) {
-		Integer[] organismo = new Integer[CANTIDAD_DE_GENES]; // 3 valores tiene cada individuo: cant prod1, cant prod2, cant prod3
+		Integer[] organismo = new Integer[Constante.CANTIDAD_DE_GENES]; // 3 valores tiene cada individuo: cant prod1, cant prod2, cant prod3
 		
 		// Lleno una lista con valores random
 		ArrayList<Integer> listaPosiblesValores = new ArrayList<Integer>();
-		for(int i=0; i < CANTIDAD_DE_GENES; i++){
+		for(int i=0; i < Constante.CANTIDAD_DE_GENES; i++){
 			switch (i){
 				case 0:
-					listaPosiblesValores.add((new Random()).nextInt(201)); break; // Puse que tire valores random hasta el 200 para probar
+					listaPosiblesValores.add((new Random()).nextInt(50)); break;
 				case 1:
-					listaPosiblesValores.add((new Random()).nextInt(201)); break;
+					listaPosiblesValores.add((new Random()).nextInt(50)); break;
 				case 2:
-					listaPosiblesValores.add((new Random()).nextInt(201)); break;
+					listaPosiblesValores.add((new Random()).nextInt(50)); break;
 			}
 		}
 		
@@ -39,7 +36,7 @@ public class Genoma extends BasicGenome {
 		this.cromosoma = new Chromosome();
 		this.getChromosomes().add(this.cromosoma);
 		
-		for(int i=0; i < CANTIDAD_DE_GENES; i++){
+		for(int i=0; i < Constante.CANTIDAD_DE_GENES; i++){
 			IntegerGene gen = new IntegerGene();
 			gen.setValue(organismo[i]);
 			this.cromosoma.getGenes().add(gen);
@@ -66,11 +63,11 @@ public class Genoma extends BasicGenome {
 
 	@Override
 	public void encode() {
-		Chromosome chromosome = this.getChromosomes().get(0);
+        Chromosome chromosome = this.getChromosomes().get(0);
 		
 		Integer[] organism = (Integer[])getOrganism();
 
-		for(int i=0;i<chromosome.size();i++)
+		for(int i=0; i<chromosome.size(); i++)
 		{
 			IntegerGene gene = (IntegerGene)chromosome.get(i);
 			gene.setValue(organism[i]);
