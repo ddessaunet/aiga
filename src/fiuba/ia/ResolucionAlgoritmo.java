@@ -4,13 +4,20 @@ import org.encog.ml.genetic.BasicGeneticAlgorithm;
 import org.encog.ml.genetic.GeneticAlgorithm;
 import org.encog.ml.genetic.genes.IntegerGene;
 import org.encog.ml.genetic.genome.CalculateGenomeScore;
+import org.encog.ml.genetic.genome.Genome;
 import org.encog.ml.genetic.mutate.MutateShuffle;
 import org.encog.ml.genetic.population.BasicPopulation;
 import org.encog.ml.genetic.population.Population;
+import org.encog.util.obj.ObjectCloner;
+
+import java.util.ArrayList;
+import java.util.List;
 
 public class ResolucionAlgoritmo {
 
 	private GeneticAlgorithm algoritmo;
+    private GeneticAlgorithm mejores;
+    private int cantidadSolucionesIguales = 0;
 
     public ResolucionAlgoritmo() {
         this.configuracion();
@@ -37,48 +44,77 @@ public class ResolucionAlgoritmo {
             algoritmo.getPopulation().add(genoma);
             algoritmo.calculateScore(genoma);
 		}
+
+        // Genero una poblacion vacia para guardar a los mejores.
+        Population poblacionMejores = new BasicPopulation();
+        mejores = new BasicGeneticAlgorithm();
+        mejores.setCalculateScore(ganancia);
+        mejores.setPopulation(poblacionMejores);
 		
 		poblacion.claim(algoritmo);
-		//poblacion.sort();
+		poblacion.sort();
 	}
 	
 	public void imprimirSolucion() {
-		for (int i=0; i < Config.CANTIDAD_DE_GENES; i++){ // Busco CANTIDAD_DE_GENES soluciones ??? Ver si esto es asi o si entendi mal!
-			System.out.print("|" + ""+ ((IntegerGene)algoritmo.getPopulation().getBest().getChromosomes().get(0).getGenes().get(i)).getValue() + "|");
+        System.out.println();
+        System.out.print("La mejor solucion hallada fue: ");
+		for (int i=0; i < Config.CANTIDAD_DE_GENES; i++){
+
+			System.out.print("|" + ""
+                    + ((IntegerGene)mejores.getPopulation()
+                    .getBest().getChromosomes().get(0)
+                    .getGenes().get(i)).getValue() + "|");
 		}
 		System.out.println("");
 	}
 
-	public void resolver() {
+    private void imprimirGeneracion() {
+        List<Genome> organismos = algoritmo.getPopulation().getGenomes();
+        System.out.print("|Poblacion Actual: ");
+        for (int i=0; i < Config.TAMANIO_POBLACION; i++) {
+            System.out.print("|" + organismos.get(i).getScore() + "");
+        }
+        System.out.println("|");
+    }
+
+    private void imprimirPoblacionInicial() {
+        List<Genome> organismos = algoritmo.getPopulation().getGenomes();
+        System.out.print("|Poblacion Inicial:");
+        for (int i=0; i < Config.TAMANIO_POBLACION; i++) {
+            System.out.print("|" + organismos.get(i).getScore() + "");
+        }
+        System.out.println("|");
+    }
+
+    private void guardarMejores(Genome individuo) {
+
+        for (int i = 0; i < mejores.getPopulation().size(); i++) {
+            if (mejores.getPopulation().get(i).getScore() == individuo.getScore()) {
+                cantidadSolucionesIguales++;
+                return;
+            }
+        }
+        mejores.getPopulation().add((Genome)ObjectCloner.deepCopy(individuo));
+    }
+
+    public void resolver() {
 		StringBuilder builder = new StringBuilder();
 
-		int cantidadSolucionesIguales = 0;
+
 		int iteracion = 1;
+        double gananciaSolucion = 0.0;
 		double gananciaSolucionAnterior = Double.MAX_VALUE;
-		
+
+        this.imprimirPoblacionInicial();
+
 		// Uso condicion de corte
 		while (cantidadSolucionesIguales < Config.MAXIMA_CANT_SOLUCIONES_IGUALES) {
 
             algoritmo.iteration();
-			iteracion++;
-			double gananciaSolucion = algoritmo.getPopulation().getBest().getScore();
-			builder.setLength(0);
-			builder.append("Iteracion: ");
-			builder.append(iteracion);
-			builder.append(" Ganancia: ");
-			builder.append(gananciaSolucion);
 
+            this.imprimirGeneracion();
 
-			System.out.println(builder.toString());
-			
-			if (gananciaSolucionAnterior == gananciaSolucion && gananciaSolucion > 0){
-				cantidadSolucionesIguales++;
-			} 
-			else{
-				cantidadSolucionesIguales = 0;
-				imprimirSolucion();
-			}
-			gananciaSolucionAnterior = gananciaSolucion;
+            this.guardarMejores(algoritmo.getPopulation().getBest());
 		}
 
 		imprimirSolucion();
