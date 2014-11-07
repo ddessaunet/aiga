@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/training/estimator
+END
+EstimatorNone.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/training/estimator/EstimatorNone.java
+END
+BayesEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/training/estimator/BayesEstimator.java
+END
+SimpleEstimator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/training/estimator/SimpleEstimator.java
+END

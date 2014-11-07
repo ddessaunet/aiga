@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input
+END
+InputFieldMLDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputFieldMLDataSet.java
+END
+InputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputField.java
+END
+MLDataFieldHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/MLDataFieldHolder.java
+END
+BasicInputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/BasicInputField.java
+END
+InputFieldArray1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputFieldArray1D.java
+END
+InputFieldArray2D.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputFieldArray2D.java
+END
+InputFieldEncogCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputFieldEncogCollection.java
+END
+HasFixedLength.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/HasFixedLength.java
+END
+InputFieldCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/input/InputFieldCSV.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/flat
+END
+FlatNetworkRBF.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/flat/FlatNetworkRBF.java
+END
+FlatNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/flat/FlatNetwork.java
+END
+FlatLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/flat/FlatLayer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/flat/package-info.java
+END

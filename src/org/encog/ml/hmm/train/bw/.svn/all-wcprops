@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/train/bw
+END
+TrainBaumWelchScaled.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/train/bw/TrainBaumWelchScaled.java
+END
+BaseBaumWelch.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/train/bw/BaseBaumWelch.java
+END
+TrainBaumWelch.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/train/bw/TrainBaumWelch.java
+END

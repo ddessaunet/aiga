@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome
+END
+GenomeComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/GenomeComparator.java
+END
+CalculateGenomeScore.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/CalculateGenomeScore.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/package-info.java
+END
+Genome.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/Genome.java
+END
+Chromosome.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/Chromosome.java
+END
+BasicGenome.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/genome/BasicGenome.java
+END

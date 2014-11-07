@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent
+END
+ConcurrentTrainingManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/ConcurrentTrainingManager.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/package-info.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/DateUtil.java
+END
+EnglishTimeUnitNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/EnglishTimeUnitNames.java
+END
+NumericDateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/NumericDateUtil.java
+END
+TimeUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/TimeUnit.java
+END
+TimeSpan.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/TimeSpan.java
+END
+TimeUnitNames.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/time/TimeUnitNames.java
+END

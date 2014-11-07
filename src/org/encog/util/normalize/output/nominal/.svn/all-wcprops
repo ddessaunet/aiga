@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/nominal
+END
+NominalItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/nominal/NominalItem.java
+END
+OutputOneOf.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/nominal/OutputOneOf.java
+END
+OutputEquilateral.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/nominal/OutputEquilateral.java
+END

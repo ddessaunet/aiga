@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit
+END
+TextDataUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit/TextDataUnit.java
+END
+CodeDataUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit/CodeDataUnit.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit/package-info.java
+END
+TagDataUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit/TagDataUnit.java
+END
+DataUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/dataunit/DataUnit.java
+END

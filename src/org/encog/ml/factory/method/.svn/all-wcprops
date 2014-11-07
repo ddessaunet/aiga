@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method
+END
+SRNFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/SRNFactory.java
+END
+RBFNetworkFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/RBFNetworkFactory.java
+END
+SVMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/SVMFactory.java
+END
+FeedforwardFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/FeedforwardFactory.java
+END
+BayesianFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/BayesianFactory.java
+END
+PNNFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/PNNFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/package-info.java
+END
+SOMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/method/SOMFactory.java
+END

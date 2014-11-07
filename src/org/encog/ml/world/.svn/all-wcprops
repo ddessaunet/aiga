@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world
+END
+WorldError.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/WorldError.java
+END
+WorldAgent.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/WorldAgent.java
+END
+World.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/World.java
+END
+PerformAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/PerformAction.java
+END
+SuccessorState.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/SuccessorState.java
+END
+Action.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/Action.java
+END
+ActionProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/ActionProbability.java
+END
+AgentPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/AgentPolicy.java
+END
+State.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/State.java
+END

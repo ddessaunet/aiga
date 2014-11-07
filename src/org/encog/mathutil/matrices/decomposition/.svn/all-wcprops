@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition
+END
+LUDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/LUDecomposition.java
+END
+CholeskyDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/CholeskyDecomposition.java
+END
+SingularValueDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/SingularValueDecomposition.java
+END
+QRDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/QRDecomposition.java
+END
+EigenvalueDecomposition.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/EigenvalueDecomposition.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/decomposition/package-info.java
+END

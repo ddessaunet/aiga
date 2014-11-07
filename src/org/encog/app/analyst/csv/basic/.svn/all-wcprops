@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic
+END
+BasicCachedFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/BasicCachedFile.java
+END
+FileData.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/FileData.java
+END
+BaseCachedColumn.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/BaseCachedColumn.java
+END
+LoadedRow.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/LoadedRow.java
+END
+BasicFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/BasicFile.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/basic/package-info.java
+END

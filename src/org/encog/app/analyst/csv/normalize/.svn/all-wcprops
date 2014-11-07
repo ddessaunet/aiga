@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/normalize
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/normalize/package-info.java
+END
+AnalystNormalizeCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/normalize/AnalystNormalizeCSV.java
+END
+AnalystNormalizeToEGB.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/normalize/AnalystNormalizeToEGB.java
+END

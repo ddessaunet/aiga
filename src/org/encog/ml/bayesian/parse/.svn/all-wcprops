@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/parse
+END
+ParsedProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/parse/ParsedProbability.java
+END
+ParsedEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/parse/ParsedEvent.java
+END
+ParsedChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/parse/ParsedChoice.java
+END
+ParseProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/parse/ParseProbability.java
+END

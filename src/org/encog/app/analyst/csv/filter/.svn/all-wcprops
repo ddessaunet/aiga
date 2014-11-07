@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/filter
+END
+ExcludedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/filter/ExcludedField.java
+END
+FilterCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/filter/FilterCSV.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/filter/package-info.java
+END

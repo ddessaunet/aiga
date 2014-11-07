@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/kmeans
+END
+KMeansClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/kmeans/KMeansClustering.java
+END
+BasicCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/kmeans/BasicCluster.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/kmeans/package-info.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic
+END
+BasicMLDataPair.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLDataPair.java
+END
+BasicMLDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLDataSet.java
+END
+BasicMLData.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLData.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/package-info.java
+END
+BasicMLDataPairCentroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLDataPairCentroid.java
+END
+BasicMLComplexData.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLComplexData.java
+END
+BasicMLDataCentroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLDataCentroid.java
+END
+BasicMLSequenceSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/basic/BasicMLSequenceSet.java
+END

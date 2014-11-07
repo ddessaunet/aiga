@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/grid/probability
+END
+GridStochasticProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/grid/probability/GridStochasticProbability.java
+END
+GridAbstractProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/grid/probability/GridAbstractProbability.java
+END
+GridDeterministicProbability.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/world/grid/probability/GridDeterministicProbability.java
+END

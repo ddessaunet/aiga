@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy
+END
+Greedy.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/Greedy.java
+END
+Strategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/Strategy.java
+END
+HybridStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/HybridStrategy.java
+END
+StopTrainingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/StopTrainingStrategy.java
+END
+ResetStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/ResetStrategy.java
+END
+RequiredImprovementStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/RequiredImprovementStrategy.java
+END

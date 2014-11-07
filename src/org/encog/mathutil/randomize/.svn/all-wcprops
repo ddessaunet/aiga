@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize
+END
+ConsistentRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/ConsistentRandomizer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/package-info.java
+END
+GaussianRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/GaussianRandomizer.java
+END
+FanInRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/FanInRandomizer.java
+END
+RangeRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/RangeRandomizer.java
+END
+Distort.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/Distort.java
+END
+Randomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/Randomizer.java
+END
+RandomChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/RandomChoice.java
+END
+BasicRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/BasicRandomizer.java
+END
+NguyenWidrowRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/NguyenWidrowRandomizer.java
+END
+ConstRandomizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/randomize/ConstRandomizer.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf
+END
+InverseMultiquadricFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/InverseMultiquadricFunction.java
+END
+MexicanHatFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/MexicanHatFunction.java
+END
+MultiquadricFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/MultiquadricFunction.java
+END
+BasicRBF.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/BasicRBF.java
+END
+RBFEnum.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/RBFEnum.java
+END
+GaussianFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/GaussianFunction.java
+END
+RadialBasisFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/RadialBasisFunction.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/rbf/package-info.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm
+END
+KernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/KernelType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/package-info.java
+END
+SVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/SVM.java
+END
+SVMType.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/SVMType.java
+END
+PersistSVM.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/PersistSVM.java
+END

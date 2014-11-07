@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/obj
+END
+SerializeObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/obj/SerializeObject.java
+END
+ReflectionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/obj/ReflectionUtil.java
+END
+ObjectCloner.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/obj/ObjectCloner.java
+END

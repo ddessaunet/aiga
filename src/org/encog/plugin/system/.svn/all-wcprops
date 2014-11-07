@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system
+END
+SystemTrainingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system/SystemTrainingPlugin.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system/package-info.java
+END
+SystemActivationPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system/SystemActivationPlugin.java
+END
+SystemMethodsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system/SystemMethodsPlugin.java
+END
+SystemLoggingPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/system/SystemLoggingPlugin.java
+END
