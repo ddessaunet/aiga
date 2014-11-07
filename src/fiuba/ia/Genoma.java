@@ -8,44 +8,62 @@ import org.encog.ml.genetic.genes.IntegerGene;
 import org.encog.ml.genetic.genome.BasicGenome;
 import org.encog.ml.genetic.genome.Chromosome;
 
-/**
+/*
  * A genome is the basic blueprint for creating an organism in Encog.
  */
 public class Genoma extends BasicGenome {
 
 	private Chromosome cromosoma;
 	
-	public Genoma(final GeneticAlgorithm algoritmo) {
-		Integer[] organismo = new Integer[Constante.CANTIDAD_DE_GENES]; // 3 valores tiene cada individuo: cant prod1, cant prod2, cant prod3
-		
-		// Lleno una lista con valores random
-		ArrayList<Integer> listaPosiblesValores = new ArrayList<Integer>();
-		for(int i=0; i < Constante.CANTIDAD_DE_GENES; i++){
-			switch (i){
-				case 0:
-					listaPosiblesValores.add((new Random()).nextInt(50)); break;
-				case 1:
-					listaPosiblesValores.add((new Random()).nextInt(50)); break;
-				case 2:
-					listaPosiblesValores.add((new Random()).nextInt(50)); break;
-			}
-		}
-		
-		listaPosiblesValores.toArray(organismo);
+	public Genoma() {
+
+		if (Config.SOLO_INDIVIDUOS_VALIDOS) {
+            this.buildOnlyValidValuesOrganism();
+        } else {
+            this.buildRandomValuesOrganism();
+        }
 		
 		this.cromosoma = new Chromosome();
 		this.getChromosomes().add(this.cromosoma);
 		
-		for(int i=0; i < Constante.CANTIDAD_DE_GENES; i++){
+		for(int i=0; i < Config.CANTIDAD_DE_GENES; i++){
 			IntegerGene gen = new IntegerGene();
-			gen.setValue(organismo[i]);
+			gen.setValue(((Integer[])this.getOrganism())[i]);
 			this.cromosoma.getGenes().add(gen);
 		}
-		setOrganism(organismo);
 				
 		encode();
-		
 	}
+
+    private void buildRandomValuesOrganism() {
+        // 3 valores tiene cada individuo: cant prod1, cant prod2, cant prod3
+        Integer[] organismo = new Integer[Config.CANTIDAD_DE_GENES];
+
+        // Lleno una lista con valores random
+        ArrayList<Integer> productos = new ArrayList<Integer>();
+        for(int i=0; i < Config.CANTIDAD_DE_GENES; i++){
+            switch (i){
+                case 0:
+                    productos.add((new Random()).nextInt(84)); break;
+                case 1:
+                    productos.add((new Random()).nextInt(63)); break;
+                case 2:
+                    productos.add((new Random()).nextInt(67)); break;
+            }
+        }
+        productos.toArray(organismo);
+        this.setOrganism(organismo);
+    }
+
+    private void buildOnlyValidValuesOrganism() {
+
+        this.buildRandomValuesOrganism();
+        Ganancia ganancia = new Ganancia();
+
+        while (ganancia.calculateScore(this) == 0.0) {
+            this.buildRandomValuesOrganism();
+        }
+    }
 
 	@Override
 	public void decode() {
@@ -75,4 +93,3 @@ public class Genoma extends BasicGenome {
 	}
 
 }
-

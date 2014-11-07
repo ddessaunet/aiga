@@ -10,12 +10,13 @@ public class Config {
     /*
      * Parametros del algoritmo genetico.
      */
-    public static final int TAMANIO_POBLACION = 2000;
+    public static final boolean SOLO_INDIVIDUOS_VALIDOS = true;
+    public static final int TAMANIO_POBLACION = 20; // En caso de SOLO_INDIVIDUOS_VALIDOS = false, usar valor alto.
     public static final double PORCENTAJE_MUTACION = 0.25;
     public static final double PORCENTAJE_SELECCION = 0.5;
     public static final double PORCENTAJE_REPRODUCCION = 0.25;
     public static final double PORCENTAJE_POBLACION_USADA_PARA_REPRODUCCION = 0.25;
-    public static final int MAXIMA_CANT_SOLUCIONES_IGUALES = 250; // Condicion de corte
+    public static final int MAXIMA_CANT_SOLUCIONES_IGUALES = 5; // Condicion de corte
 
     /*
      * Recursos disponibles para la produccion de materiales

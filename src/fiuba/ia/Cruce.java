@@ -7,23 +7,23 @@ import java.util.Random;
 import org.encog.ml.genetic.crossover.Crossover;
 import org.encog.ml.genetic.genome.Chromosome;
 
-public class Cruce implements Crossover{
+public class Cruce implements Crossover {
 
 	@Override
 	public void mate(Chromosome madre, Chromosome padre,
 			Chromosome hijo1, Chromosome hijo2) {
-		
-		ArrayList<Integer> ordenRandom = new ArrayList<Integer>(Constante.CANTIDAD_DE_GENES);
-		for(int i=0; i < Constante.CANTIDAD_DE_GENES; i++){
+
+		ArrayList<Integer> ordenRandom = new ArrayList<Integer>(Config.CANTIDAD_DE_GENES);
+		for(int i=0; i < Config.CANTIDAD_DE_GENES; i++){
 			ordenRandom.add(i);
 		}
 		Collections.shuffle(ordenRandom, new Random(System.nanoTime()));
-		for(int i=0; i < Constante.CANTIDAD_DE_GENES -1; i++){
+		for(int i=0; i < Config.CANTIDAD_DE_GENES -1; i++){
 			int countN1 = 0;
 			int countN2 = 0;
 			int n1 = ordenRandom.get(i);
 			int n2 = ordenRandom.get(i+1);
-			for(int j=0; j < Constante.CANTIDAD_DE_GENES; j++){
+			for(int j=0; j < Config.CANTIDAD_DE_GENES; j++){
 				if(ordenRandom.get(i).equals(n1)){
 					if(countN1 > 2) continue;
 					countN1++;
