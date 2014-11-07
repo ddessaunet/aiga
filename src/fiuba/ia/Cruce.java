@@ -12,7 +12,7 @@ public class Cruce implements Crossover {
 	@Override
 	public void mate(Chromosome madre, Chromosome padre,
 			Chromosome hijo1, Chromosome hijo2) {
-
+        /*
 		ArrayList<Integer> ordenRandom = new ArrayList<Integer>(Config.CANTIDAD_DE_GENES);
 		for(int i=0; i < Config.CANTIDAD_DE_GENES; i++){
 			ordenRandom.add(i);
@@ -35,6 +35,7 @@ public class Cruce implements Crossover {
 				}
 			}
 		}
+		*/
 	}
 
 	
