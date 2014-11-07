@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/training
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/training/package-info.java
+END
+SVDTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/training/SVDTraining.java
+END
+SVD.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/training/SVD.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/cloud/basic
+END
+CloudPacket.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/cloud/basic/CloudPacket.java
+END
+CloudError.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/cloud/basic/CloudError.java
+END
+CommunicationLink.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/cloud/basic/CommunicationLink.java
+END

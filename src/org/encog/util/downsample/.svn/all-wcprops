@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/downsample
+END
+RGBDownsample.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/downsample/RGBDownsample.java
+END
+Downsample.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/downsample/Downsample.java
+END
+SimpleIntensityDownsample.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/downsample/SimpleIntensityDownsample.java
+END

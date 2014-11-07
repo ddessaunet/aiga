@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune/package-info.java
+END
+NetworkPattern.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune/NetworkPattern.java
+END
+PruneIncremental.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune/PruneIncremental.java
+END
+HiddenLayerParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune/HiddenLayerParams.java
+END
+PruneSelective.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/prune/PruneSelective.java
+END

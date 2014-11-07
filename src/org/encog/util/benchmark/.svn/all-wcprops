@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/benchmark
+END
+EncogBenchmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/benchmark/EncogBenchmark.java
+END
+Evaluate.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/benchmark/Evaluate.java
+END
+EncoderTrainingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/benchmark/EncoderTrainingFactory.java
+END
+RandomTrainingFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/benchmark/RandomTrainingFactory.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer
+END
+BufferedMLDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/BufferedMLDataSet.java
+END
+BufferedDataSetIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/BufferedDataSetIterator.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/package-info.java
+END
+BinaryDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/BinaryDataLoader.java
+END
+BufferedDataError.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/BufferedDataError.java
+END
+EncogEGBFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/EncogEGBFile.java
+END
+MemoryDataLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/MemoryDataLoader.java
+END

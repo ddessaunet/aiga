@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market
+END
+TickerSymbol.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/TickerSymbol.java
+END
+MarketError.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/MarketError.java
+END
+MarketPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/MarketPoint.java
+END
+MarketDataType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/MarketDataType.java
+END
+MarketDataDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/MarketDataDescription.java
+END
+MarketMLDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/MarketMLDataSet.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/performers
+END
+ConcurrentTrainingPerformer.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/performers/ConcurrentTrainingPerformer.java
+END
+PerformerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/performers/PerformerTask.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/performers/package-info.java
+END
+ConcurrentTrainingPerformerCPU.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/concurrent/performers/ConcurrentTrainingPerformerCPU.java
+END

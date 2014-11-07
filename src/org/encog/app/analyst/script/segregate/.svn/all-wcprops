@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/segregate
+END
+AnalystSegregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/segregate/AnalystSegregate.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/segregate/package-info.java
+END
+AnalystSegregateTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/segregate/AnalystSegregateTarget.java
+END

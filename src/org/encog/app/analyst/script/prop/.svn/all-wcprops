@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop
+END
+ScriptProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop/ScriptProperties.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop/package-info.java
+END
+PropertyEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop/PropertyEntry.java
+END
+PropertyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop/PropertyType.java
+END
+PropertyConstraints.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/script/prop/PropertyConstraints.java
+END

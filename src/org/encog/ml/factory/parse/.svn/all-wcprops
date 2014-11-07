@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/parse
+END
+ArchitectureLayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/parse/ArchitectureLayer.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/parse/package-info.java
+END
+ArchitectureParse.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/parse/ArchitectureParse.java
+END

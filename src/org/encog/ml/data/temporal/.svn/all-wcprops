@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/temporal
+END
+TemporalDataDescription.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/temporal/TemporalDataDescription.java
+END
+TemporalMLDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/temporal/TemporalMLDataSet.java
+END
+TemporalError.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/temporal/TemporalError.java
+END
+TemporalPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/temporal/TemporalPoint.java
+END

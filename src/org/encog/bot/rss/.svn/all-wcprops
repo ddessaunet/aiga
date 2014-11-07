@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/rss
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/rss/package-info.java
+END
+RSSItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/rss/RSSItem.java
+END
+RSS.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/rss/RSS.java
+END

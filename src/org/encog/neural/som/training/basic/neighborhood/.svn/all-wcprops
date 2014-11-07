@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/package-info.java
+END
+NeighborhoodRBF1D.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/NeighborhoodRBF1D.java
+END
+NeighborhoodSingle.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/NeighborhoodSingle.java
+END
+NeighborhoodFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/NeighborhoodFunction.java
+END
+NeighborhoodRBF.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/NeighborhoodRBF.java
+END
+NeighborhoodBubble.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/neighborhood/NeighborhoodBubble.java
+END

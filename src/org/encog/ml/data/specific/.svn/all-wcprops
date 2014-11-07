@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/specific
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/specific/package-info.java
+END
+CSVNeuralDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/specific/CSVNeuralDataSet.java
+END
+BiPolarNeuralData.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/specific/BiPolarNeuralData.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/missing
+END
+NegateMissing.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/missing/NegateMissing.java
+END
+MeanAndModeMissing.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/missing/MeanAndModeMissing.java
+END
+DiscardMissing.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/missing/DiscardMissing.java
+END
+HandleMissingValues.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/missing/HandleMissingValues.java
+END

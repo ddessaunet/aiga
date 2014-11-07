@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian
+END
+EventType.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/EventType.java
+END
+BayesianError.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/BayesianError.java
+END
+BayesianNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/BayesianNetwork.java
+END
+BayesianChoice.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/BayesianChoice.java
+END
+BayesianEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/BayesianEvent.java
+END
+PersistBayes.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/bayesian/PersistBayes.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian
+END
+HessianCR.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian/HessianCR.java
+END
+ChainRuleWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian/ChainRuleWorker.java
+END
+HessianFD.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian/HessianFD.java
+END
+ComputeHessian.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian/ComputeHessian.java
+END
+BasicHessian.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/hessian/BasicHessian.java
+END

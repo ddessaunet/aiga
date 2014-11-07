@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory
+END
+MLTrainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/MLTrainFactory.java
+END
+MLMethodFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/MLMethodFactory.java
+END
+MLActivationFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/MLActivationFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/package-info.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil
+END
+NormalizeArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/NormalizeArray.java
+END
+TemporalWindowField.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/TemporalWindowField.java
+END
+ClassItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/ClassItem.java
+END
+NormalizationAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/NormalizationAction.java
+END
+TemporalType.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/TemporalType.java
+END
+NormalizedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/NormalizedField.java
+END
+TemporalWindowArray.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/arrayutil/TemporalWindowArray.java
+END

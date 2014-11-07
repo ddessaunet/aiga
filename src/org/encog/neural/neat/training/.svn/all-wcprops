@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training
+END
+NEATLinkGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATLinkGene.java
+END
+NEATInnovationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATInnovationList.java
+END
+NEATParams.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATParams.java
+END
+NEATInnovation.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATInnovation.java
+END
+NEATNeuronGene.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATNeuronGene.java
+END
+NEATInnovationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATInnovationType.java
+END
+NEATGenome.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATGenome.java
+END
+NEATTraining.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/neat/training/NEATTraining.java
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train
+END
+PNNTrainFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/PNNTrainFactory.java
+END
+TrainBayesianFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/TrainBayesianFactory.java
+END
+SVMSearchFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/SVMSearchFactory.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/package-info.java
+END
+AnnealFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/AnnealFactory.java
+END
+NelderMeadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/NelderMeadFactory.java
+END
+ClusterSOMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/ClusterSOMFactory.java
+END
+PSOFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/PSOFactory.java
+END
+BackPropFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/BackPropFactory.java
+END
+RPROPFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/RPROPFactory.java
+END
+SVMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/SVMFactory.java
+END
+LMAFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/LMAFactory.java
+END
+ManhattanFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/ManhattanFactory.java
+END
+SCGFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/SCGFactory.java
+END
+QuickPropFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/QuickPropFactory.java
+END
+GeneticFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/GeneticFactory.java
+END
+RBFSVDFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/RBFSVDFactory.java
+END
+NeighborhoodSOMFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/factory/train/NeighborhoodSOMFactory.java
+END

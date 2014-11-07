@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation
+END
+TrainingContinuation.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation/TrainingContinuation.java
+END
+GradientWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation/GradientWorker.java
+END
+PersistTrainingContinuation.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation/PersistTrainingContinuation.java
+END
+Propagation.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation/Propagation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/propagation/package-info.java
+END

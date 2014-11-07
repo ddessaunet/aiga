@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/error
+END
+ErrorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/error/ErrorFunction.java
+END
+OutputErrorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/error/OutputErrorFunction.java
+END
+ATanErrorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/error/ATanErrorFunction.java
+END
+LinearErrorFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/error/LinearErrorFunction.java
+END

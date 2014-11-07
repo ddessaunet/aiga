@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/anneal
+END
+NeuralSimulatedAnnealing.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/anneal/NeuralSimulatedAnnealing.java
+END
+NeuralSimulatedAnnealingHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/anneal/NeuralSimulatedAnnealingHelper.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/networks/training/anneal/package-info.java
+END

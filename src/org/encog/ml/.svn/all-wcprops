@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml
+END
+MLEncodable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLEncodable.java
+END
+MLClustering.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLClustering.java
+END
+MLRegression.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLRegression.java
+END
+MLMethod.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLMethod.java
+END
+MLInputOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLInputOutput.java
+END
+MLCluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLCluster.java
+END
+BasicML.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/BasicML.java
+END
+MLContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLContext.java
+END
+MLError.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLError.java
+END
+MLResettable.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLResettable.java
+END
+TrainingImplementationType.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/TrainingImplementationType.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/package-info.java
+END
+MLClassification.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLClassification.java
+END
+MLAutoAssocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLAutoAssocation.java
+END
+MLProperties.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLProperties.java
+END
+MLInput.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLInput.java
+END
+MLOutput.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLOutput.java
+END
+MLStateSequence.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/MLStateSequence.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/analyze
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/analyze/package-info.java
+END
+AnalyzedField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/analyze/AnalyzedField.java
+END
+PerformAnalysis.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/analyze/PerformAnalysis.java
+END

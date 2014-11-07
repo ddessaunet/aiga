@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf
+END
+RBFNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/RBFNetwork.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/package-info.java
+END
+PersistRBFNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/rbf/PersistRBFNetwork.java
+END

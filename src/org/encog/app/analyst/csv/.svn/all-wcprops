@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv
+END
+TimeSeriesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/TimeSeriesUtil.java
+END
+AnalystEvaluateRawCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/AnalystEvaluateRawCSV.java
+END
+AnalystClusterCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/AnalystClusterCSV.java
+END
+AnalystEvaluateCSV.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/AnalystEvaluateCSV.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/csv/package-info.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/package-info.java
+END
+PersistBasicPNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/PersistBasicPNN.java
+END
+BasicPNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/BasicPNN.java
+END
+PNNKernelType.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/PNNKernelType.java
+END
+AbstractPNN.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/AbstractPNN.java
+END
+PNNOutputMode.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/pnn/PNNOutputMode.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/training
+END
+SVMTrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/training/SVMTrain.java
+END
+EncodeSVMProblem.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/training/EncodeSVMProblem.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/training/package-info.java
+END
+SVMSearchTrain.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/svm/training/SVMSearchTrain.java
+END

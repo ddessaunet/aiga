@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog
+END
+ForwardBackwardScaledCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog/ForwardBackwardScaledCalculator.java
+END
+KullbackLeiblerDistanceCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog/KullbackLeiblerDistanceCalculator.java
+END
+ForwardBackwardCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog/ForwardBackwardCalculator.java
+END
+ViterbiCalculator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog/ViterbiCalculator.java
+END
+MarkovGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/hmm/alog/MarkovGenerator.java
+END

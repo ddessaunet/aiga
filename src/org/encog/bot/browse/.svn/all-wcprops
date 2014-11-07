@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse
+END
+Browser.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/Browser.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/package-info.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/Address.java
+END
+LoadWebPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/LoadWebPage.java
+END
+WebPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/WebPage.java
+END
+BrowseError.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/bot/browse/BrowseError.java
+END

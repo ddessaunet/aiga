@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/package-info.java
+END
+BestMatchingUnit.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/BestMatchingUnit.java
+END
+BasicTrainSOM.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/som/training/basic/BasicTrainSOM.java
+END

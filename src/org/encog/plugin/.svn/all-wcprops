@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin
+END
+EncogPluginLogging1.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/EncogPluginLogging1.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/package-info.java
+END
+EncogPluginBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/EncogPluginBase.java
+END
+EncogPluginService1.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/plugin/EncogPluginService1.java
+END

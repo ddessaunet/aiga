@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/concurrency/job
+END
+JobUnitWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/concurrency/job/JobUnitWorker.java
+END
+ConcurrentJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/concurrency/job/ConcurrentJob.java
+END
+JobUnitContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/concurrency/job/JobUnitContext.java
+END

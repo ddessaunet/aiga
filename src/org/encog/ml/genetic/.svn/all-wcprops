@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic
+END
+MateWorker.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/MateWorker.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/package-info.java
+END
+GeneticAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/GeneticAlgorithm.java
+END
+BasicGeneticAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/BasicGeneticAlgorithm.java
+END
+GeneticError.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/GeneticError.java
+END

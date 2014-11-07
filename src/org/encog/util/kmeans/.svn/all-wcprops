@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/kmeans
+END
+Centroid.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/kmeans/Centroid.java
+END
+KMeansUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/kmeans/KMeansUtil.java
+END
+CentroidFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/kmeans/CentroidFactory.java
+END
+Cluster.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/kmeans/Cluster.java
+END

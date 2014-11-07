@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/logging
+END
+DumpMatrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/logging/DumpMatrix.java
+END
+EncogFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/logging/EncogFormatter.java
+END
+EncogLogging.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/logging/EncogLogging.java
+END

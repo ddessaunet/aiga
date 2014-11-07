@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/util
+END
+ConvertStringConst.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/util/ConvertStringConst.java
+END
+AnalystReportBridge.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/util/AnalystReportBridge.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/util/package-info.java
+END
+CSVHeaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/analyst/util/CSVHeaders.java
+END

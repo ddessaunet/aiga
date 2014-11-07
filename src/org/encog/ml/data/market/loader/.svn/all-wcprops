@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/loader
+END
+LoaderError.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/loader/LoaderError.java
+END
+LoadedMarketData.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/loader/LoadedMarketData.java
+END
+MarketLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/loader/MarketLoader.java
+END
+YahooFinanceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/market/loader/YahooFinanceLoader.java
+END

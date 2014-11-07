@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation
+END
+InnovationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation/InnovationList.java
+END
+BasicInnovationList.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation/BasicInnovationList.java
+END
+Innovation.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation/Innovation.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation/package-info.java
+END
+BasicInnovation.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/genetic/innovation/BasicInnovation.java
+END

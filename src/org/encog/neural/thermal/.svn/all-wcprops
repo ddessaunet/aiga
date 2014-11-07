@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal
+END
+BoltzmannMachine.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/BoltzmannMachine.java
+END
+PersistBoltzmann.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/PersistBoltzmann.java
+END
+HopfieldNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/HopfieldNetwork.java
+END
+PersistHopfield.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/PersistHopfield.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/package-info.java
+END
+ThermalNetwork.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/neural/thermal/ThermalNetwork.java
+END

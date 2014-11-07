@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end
+END
+EarlyStoppingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end/EarlyStoppingStrategy.java
+END
+EndTrainingStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end/EndTrainingStrategy.java
+END
+EndMaxErrorStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end/EndMaxErrorStrategy.java
+END
+EndIterationsStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end/EndIterationsStrategy.java
+END
+EndMinutesStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/train/strategy/end/EndMinutesStrategy.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/quant/indicators
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/quant/indicators/package-info.java
+END
+MovingAverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/quant/indicators/MovingAverage.java
+END
+Indicator.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/quant/indicators/Indicator.java
+END
+ProcessIndicators.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/app/quant/indicators/ProcessIndicators.java
+END

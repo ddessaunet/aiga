@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/segregate/index
+END
+IndexSegregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/segregate/index/IndexSegregator.java
+END
+IndexSampleSegregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/segregate/index/IndexSampleSegregator.java
+END
+IndexRangeSegregator.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/segregate/index/IndexRangeSegregator.java
+END

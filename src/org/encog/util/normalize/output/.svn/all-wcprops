@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output
+END
+RequireTwoPass.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/RequireTwoPass.java
+END
+OutputFieldDirect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/OutputFieldDirect.java
+END
+OutputFieldGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/OutputFieldGroup.java
+END
+BasicOutputFieldGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/BasicOutputFieldGroup.java
+END
+OutputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/OutputField.java
+END
+BasicOutputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/BasicOutputField.java
+END
+OutputFieldRangeMapped.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/OutputFieldRangeMapped.java
+END
+OutputFieldGrouped.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/normalize/output/OutputFieldGrouped.java
+END

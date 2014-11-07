@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec
+END
+CSVDataCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/CSVDataCODEC.java
+END
+DataSetCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/DataSetCODEC.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/package-info.java
+END
+ArrayDataCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/ArrayDataCODEC.java
+END
+NeuralDataSetCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/NeuralDataSetCODEC.java
+END
+SQLCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/SQLCODEC.java
+END
+ExcelCODEC.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/buffer/codec/ExcelCODEC.java
+END

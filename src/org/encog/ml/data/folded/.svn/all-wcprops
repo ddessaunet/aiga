@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/folded
+END
+FoldedDataSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/folded/FoldedDataSet.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/folded/package-info.java
+END
+FoldedIterator.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ml/data/folded/FoldedIterator.java
+END

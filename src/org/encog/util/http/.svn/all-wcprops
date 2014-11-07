@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/http
+END
+URLUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/http/URLUtility.java
+END
+FormUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/http/FormUtility.java
+END
+CookieUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/util/http/CookieUtility.java
+END

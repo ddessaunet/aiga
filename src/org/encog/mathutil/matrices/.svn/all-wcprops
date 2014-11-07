@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices
+END
+Matrix.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/Matrix.java
+END
+package-info.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/package-info.java
+END
+BiPolarUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/BiPolarUtil.java
+END
+MatrixError.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/MatrixError.java
+END
+MatrixMath.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/mathutil/matrices/MatrixMath.java
+END

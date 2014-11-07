@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog
+END
+EncogError.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/EncogError.java
+END
+ConsoleStatusReportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/ConsoleStatusReportable.java
+END
+Encog.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/Encog.java
+END
+NullStatusReportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/NullStatusReportable.java
+END
+StatusReportable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/geneticos-uno/!svn/ver/7/trunk/src/org/encog/StatusReportable.java
+END
